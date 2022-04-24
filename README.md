@@ -3,7 +3,7 @@
 ```markdown
 
 # ADCORP
-<a href="https://github.com/ADCORP" target="_blank">[ADCORP GITHUB](https://github.com/ADCORP)</a>
+[ADCORP GITHUB](https://github.com/ADCORP)
 ## Contributors
 [Ajinkya Deshpande](https://github.com/ajinkyadeshpande)
 ### Upcoming
