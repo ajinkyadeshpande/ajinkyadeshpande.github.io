@@ -1,7 +1,6 @@
 ## AJINKYA DESHPANDE's GITHUB Page
 
 ```markdown
-Syntax highlighted code block
 
 # ADCORP
 [ADCORP GITHUB](https://github.com/ADCORP)
